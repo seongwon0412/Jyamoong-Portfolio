@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/chat/route": "/api/chat",
+  "/comics/long/[category]/[id]/page": "/comics/long/[category]/[id]",
+  "/comics/long/[category]/page": "/comics/long/[category]",
+  "/comics/long/page": "/comics/long",
+  "/comics/short/[category]/[id]/page": "/comics/short/[category]/[id]",
+  "/comics/short/[category]/page": "/comics/short/[category]",
+  "/comics/short/page": "/comics/short",
+  "/commission/page": "/commission",
+  "/illustrations/[category]/[id]/page": "/illustrations/[category]/[id]",
+  "/illustrations/[category]/page": "/illustrations/[category]",
+  "/illustrations/page": "/illustrations",
+  "/page": "/",
+  "/profile/page": "/profile"
+}

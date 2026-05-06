@@ -1,0 +1,210 @@
+[
+  {
+    "route": "/profile",
+    "firstLoadUncompressedJsBytes": 721367,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\11gksi4srxw94.js",
+      "dist\\static\\chunks\\0w~90g.jvh4wy.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/illustrations/[category]",
+    "firstLoadUncompressedJsBytes": 686088,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\08547njmxbnit.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/short/[category]",
+    "firstLoadUncompressedJsBytes": 672865,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\05iy8oy_levec.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/long/[category]",
+    "firstLoadUncompressedJsBytes": 672858,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\09_20hqrbhasj.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/long",
+    "firstLoadUncompressedJsBytes": 670905,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\0n2hc_e8.kxvt.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\0vqwjza~~xjit.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 665417,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\06h9-hujv-grw.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/illustrations/[category]/[id]",
+    "firstLoadUncompressedJsBytes": 642170,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\10dmvg440jag6.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/short/[category]/[id]",
+    "firstLoadUncompressedJsBytes": 641386,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\0qr_i5gtum9m~.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/long/[category]/[id]",
+    "firstLoadUncompressedJsBytes": 641384,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\0uywqz~xco2qz.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/commission",
+    "firstLoadUncompressedJsBytes": 641065,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\08n5hf~i23whk.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/comics/short",
+    "firstLoadUncompressedJsBytes": 634750,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\0vfsbx4lhvvxu.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/illustrations",
+    "firstLoadUncompressedJsBytes": 634671,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\0bra_6944xmm5.js",
+      "dist\\static\\chunks\\065xdni5oh1c4.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  },
+  {
+    "route": "/_not-found",
+    "firstLoadUncompressedJsBytes": 579851,
+    "firstLoadChunkPaths": [
+      "dist\\static\\chunks\\04f4f~swddstt.js",
+      "dist\\static\\chunks\\0_879ixarc_93.js",
+      "dist\\static\\chunks\\087wfcpkhh~5k.js",
+      "dist\\static\\chunks\\00gq-v0e07i1q.js",
+      "dist\\static\\chunks\\0k8fcq_tsf70-.js",
+      "dist\\static\\chunks\\0qtz4meecy2cb.js",
+      "dist\\static\\chunks\\00ilazh50sdzh.js",
+      "dist\\static\\chunks\\turbopack-0cso9_p.qtxkp.js"
+    ]
+  }
+]

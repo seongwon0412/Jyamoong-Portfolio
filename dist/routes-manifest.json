@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "onMatchHeaders": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/comics/long/[category]",
+      "regex": "^/comics/long/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/comics/long/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/comics/long/[category]/[id]",
+      "regex": "^/comics/long/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory",
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/comics/long/(?<nxtPcategory>[^/]+?)/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/comics/short/[category]",
+      "regex": "^/comics/short/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/comics/short/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/comics/short/[category]/[id]",
+      "regex": "^/comics/short/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory",
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/comics/short/(?<nxtPcategory>[^/]+?)/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/illustrations/[category]",
+      "regex": "^/illustrations/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/illustrations/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/illustrations/[category]/[id]",
+      "regex": "^/illustrations/([^/]+?)/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory",
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/illustrations/(?<nxtPcategory>[^/]+?)/(?<nxtPid>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/api/chat",
+      "regex": "^/api/chat(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/chat(?:/)?$"
+    },
+    {
+      "page": "/comics/long",
+      "regex": "^/comics/long(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/comics/long(?:/)?$"
+    },
+    {
+      "page": "/comics/short",
+      "regex": "^/comics/short(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/comics/short(?:/)?$"
+    },
+    {
+      "page": "/commission",
+      "regex": "^/commission(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/commission(?:/)?$"
+    },
+    {
+      "page": "/illustrations",
+      "regex": "^/illustrations(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/illustrations(?:/)?$"
+    },
+    {
+      "page": "/profile",
+      "regex": "^/profile(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/profile(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}
